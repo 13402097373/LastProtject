@@ -1,0 +1,8 @@
+Django==1.11.7
+django-grappelli==2.10.1
+django-simple-captcha==0.5.5
+olefile==0.44
+Pillow==4.3.0
+psycopg2==2.7.3.2
+pytz==2017.3
+six==1.11.0
